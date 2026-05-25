@@ -1,0 +1,1 @@
+As end-to-end Python data analysis pipeline utilizing the Titanic dataset to predict survival outcomes. This project covers data cleaning,exploratory data analysis, and visualizes insights using comprehensive Matplotlib charts.
